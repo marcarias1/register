@@ -1,0 +1,11 @@
+{
+  "description": "Sistema avanzado de IA financiera TruthEngine que utiliza Transformers para análisis de noticias financieras y predicción de tendencias del mercado",
+  "repo": "https://github.com/marcarias1/TruthEngine",
+  "owner": {
+    "username": "marcarias1",
+    "email": "e.mariasd@ies-sabadell.cat"
+  },
+  "record": {
+    "CNAME": "marcarias1.github.io"
+  }
+}
